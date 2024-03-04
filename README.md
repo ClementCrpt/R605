@@ -1,4 +1,4 @@
-*HelloCiné - Guide d'Utilisation*
+#HelloCiné - Guide d'Utilisation#
 
 Bienvenue dans l'application HelloCiné ! Ce fichier README fournit toutes les informations nécessaires pour configurer et utiliser correctement l'application.
 
